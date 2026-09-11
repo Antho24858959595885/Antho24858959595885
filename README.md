@@ -1,9 +1,9 @@
-# Hi, I'm Anthony Sandoval 👋
+# Hi, I'm Anthony Sandoval 
 
 Full-Stack Web Developer & Computer Science student specializing in building scalable web applications, backend systems, and real-world workflow platforms.
 
 
-## 🚀 What I Build
+## What I Build
 
 - Full-stack web applications (ASP.NET Core, Razor Pages)
 - Backend systems with authentication + role-based access
@@ -12,16 +12,16 @@ Full-Stack Web Developer & Computer Science student specializing in building sca
 
 
 
-## 🧠 Currently Focused On
+## Currently Focused On
 
 - Full-stack web development
 - System design fundamentals
 - Backend architecture & APIs
 - Improving frontend engineering skills
+- AI training and improvement 
 
 
-
-## 📌 Featured Projects
+## Featured Projects
 
 ### Civic Action Network
 Full-stack civic engagement platform with role-based workflows, volunteer tracking, and administrative approval systems.
@@ -33,7 +33,7 @@ Deployed technical blog and portfolio site hosted on GitHub Pages.
 Unix shell, multithreaded web server, and memory management systems in C/Rust.
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend:** HTML, CSS, JavaScript, Razor Pages  
 **Backend:** ASP.NET Core, Entity Framework Core  
@@ -42,7 +42,7 @@ Unix shell, multithreaded web server, and memory management systems in C/Rust.
 **Tools:** Git, GitHub, Docker, VScode
 
 
-## 📫 Contact
+##  Contact
 
 Email: anthonysmg04@gmail.com  
 Portfolio: https://antho24858959595885.github.io/blog  
