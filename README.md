@@ -45,5 +45,4 @@ Unix shell, multithreaded web server, and memory management systems in C/Rust.
 ##  Contact
 
 Email: anthonysmg04@gmail.com  
-Portfolio: https://antho24858959595885.github.io/blog  
-GitHub: https://github.com/Antho24858959595885
+Portfolio: https://antho24858959595885.github.io/blog 
